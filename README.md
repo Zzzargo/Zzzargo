@@ -65,10 +65,24 @@ I'm a computer science student, passionate about low-level programming, games, a
 
 ### 📊 Stats
 
+<!--
 <p align="center">
   <a href="https://github.com/Zzzargo">
     <img src="https://github-stats-extended.vercel.app/api?username=Zzzargo&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" align="middle" /></a>
   <img src="https://github.com/carloscuesta/gitmoji/blob/master/assets/gitmoji-transparent.png?raw=true" width="40" height="1" align="middle" />
   <a href="https://github.com/Zzzargo">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Zzzargo&layout=donut&langs_count=5&theme=radical" alt="Top Languages" align="middle" /></a>
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/Zzzargo">
+    <img src="https://github-stats-extended.vercel.app/api?username=Zzzargo&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Zzzargo">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Zzzargo&layout=donut&langs_count=5&theme=radical" alt="Top Languages" /></a>
 </p>
