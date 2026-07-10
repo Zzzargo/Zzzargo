@@ -63,33 +63,12 @@ I'm a computer science student, passionate about low-level programming, games, a
 
 ---
 
-<!--
 ### 📊 Stats
+
 <p align="center">
   <a href="https://github.com/Zzzargo">
     <img src="https://github-stats-extended.vercel.app/api?username=Zzzargo&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" align="middle" /></a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/carloscuesta/gitmoji/blob/master/assets/gitmoji-transparent.png?raw=true" width="40" height="1" align="middle" />
   <a href="https://github.com/Zzzargo">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Zzzargo&layout=donut&langs_count=5&theme=radical" alt="Top Languages" align="middle" /></a>
 </p>
--->
-
-### 📊 Stats
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none !important; background: transparent !important;">
-  <tr style="border: none !important; background: transparent !important;">
-    <td align="center" valign="middle" style="border: none !important; background: transparent !important;">
-      <a href="https://github.com/Zzzargo">
-        <img src="https://github-stats-extended.vercel.app/api?username=Zzzargo&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="30" style="border: none !important; background: transparent !important;"></td> 
-    <td align="center" valign="middle" style="border: none !important; background: transparent !important;">
-      <a href="https://github.com/Zzzargo">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Zzzargo&layout=donut&langs_count=5&theme=radical" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-  </tr>
-</table>
